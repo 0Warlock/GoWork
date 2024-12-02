@@ -1,0 +1,2 @@
+# GoWork
+Programming in GO
